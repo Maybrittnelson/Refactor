@@ -1,0 +1,1 @@
+Hive 可以将大多数的查询转换为MapReduce任务（job），进而在介绍一个令人熟悉的SQL抽象的同时，拓展Hadoop 的可扩展性。
